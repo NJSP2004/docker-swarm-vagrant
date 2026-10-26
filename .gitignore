@@ -1,0 +1,14 @@
+# Vagrant
+.vagrant/
+
+# Token temporário do Docker Swarm
+.swarm-worker-token
+
+# Logs e arquivos temporários
+*.log
+*.retry
+
+# Chaves e credenciais
+*.pem
+*.key
+.env
